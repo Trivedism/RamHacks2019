@@ -28,12 +28,4 @@ We learned a lot about Raspberry Pi, and how it functions. Also, how a database 
 
 ## What's next for CarMax Vehicle Purchase Assister
 
-In the future, we hope to use a raspberry pi because it has wifi and ethernet so that we can connect it to CarMax’s database. 
-
-This is allow us to update the car information in Real Time
-
-Also, it would be more cost effective to use an e-paper display, which would show the status of the vehicle, whether it’s “Sold,” “In View,” or “Available”. 
-
-We would also hope to implement a small solar panel to make the panels off the grid and save 
-
-Since there are e-paper displays that are raspberry pi compatible, we can use the raspberry pi to connect to the database and access the database online.
+If selected, we can make a full fledged functioning application instead of a prototype. We are very proud of what we achieved in these last few hours and we hope you will consider us and our hardwork.
